@@ -1,0 +1,35 @@
+# Binaries and template files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.prof
+
+# Test coverage files
+*.out
+*.coverprofile
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Project benchmarking logs
+bench_results.txt
+bench_results_optimized.txt
+*.log
